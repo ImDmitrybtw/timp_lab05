@@ -1,0 +1,3 @@
+/home/dmitry/bmstu/tlab05/lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmitry/bmstu/tlab05/lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitry/bmstu/tlab05/lab05/cmake-build-debug/CMakeFiles/banking.dir
